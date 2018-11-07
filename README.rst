@@ -1,8 +1,8 @@
 Riot-ios
 ==========
-First mzeid comit in branch
+First mzeid comit in branch / online del
 Riot/iOS is an iOS Matrix client. 
-second mzeid comit
+
 .. image:: https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg
    :target: https://itunes.apple.com/us/app/riot-open-source-collaboration/id1083446067?mt=8
 
