@@ -1,6 +1,6 @@
 Riot-ios
 ==========
-First mzeid comit in branch / online del /online add
+
 Riot/iOS is an iOS Matrix client. 
 
 .. image:: https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg
@@ -17,7 +17,7 @@ Before opening the Riot Xcode workspace, you need to build it with the
 CocoaPods command::
 
         $ cd Riot
-        $ pod install / only edit
+        $ pod install 
 
 This will load all dependencies for the Riot source code, including MatrixKit 
 and MatrixSDK.  You will need an recent and updated (``pod update``) install of
