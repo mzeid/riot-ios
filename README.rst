@@ -1,7 +1,7 @@
 Riot-ios
 ==========
 
-Riot/iOS is an iOS Matrix client. 
+Riot/iOS is an iOS Matrix client. add BR1
 
 .. image:: https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg
    :target: https://itunes.apple.com/us/app/riot-open-source-collaboration/id1083446067?mt=8
